@@ -9,7 +9,7 @@ public class AppTest extends TestCase {
         int num1 = 10;
         int num2 = 20;
 
-        int expected = 30;
+        int expected = 40;
 
         int actual = num1 + num2;
 
