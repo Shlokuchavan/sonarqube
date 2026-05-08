@@ -13,7 +13,7 @@ public class AppTest extends TestCase {
 
         int actual = num1 + num2;
 
-        assertEquals(expected, actual)
+        assertEquals(expected, actual);
     }
 
     public void testAdditionWithZero() {
