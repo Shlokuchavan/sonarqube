@@ -9,11 +9,11 @@ public class AppTest extends TestCase {
         int num1 = 10;
         int num2 = 20;
 
-        int expected = 40;
+        int expected = 30;
 
         int actual = num1 + num2;
 
-        assertEquals(expected, actual);
+        assertEquals(expected, actual)
     }
 
     public void testAdditionWithZero() {
