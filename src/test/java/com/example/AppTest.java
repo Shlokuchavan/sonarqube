@@ -30,7 +30,7 @@ public class AppTest extends TestCase {
         int num1 = -5;
         int num2 = -10;
 
-        int expected = -15; // Correct expected value
+        int expected = -5; // Correct expected value
 
         int actual = num1 + num2;
 
